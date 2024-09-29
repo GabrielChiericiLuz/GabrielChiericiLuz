@@ -1,15 +1,15 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=65daf9&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Gabriel+Chierici+da+Luz;I'm+27+years+old;I+am+from+Curitiba,+PR;I+study+analysis+and+systems+development+at+PUCPR;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E0FFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Gabriel+Chierici+da+Luz;I'm+27+years+old;I+am+from+Curitiba,+PR;I+study+analysis+and+systems+development+at+PUCPR;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GabrielChiericiLuz&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="GabrielChiericiLuz github stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielChiericiLuz&layout=compact&hide_border=true&langs_count=8&count_private=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GabrielChiericiLuz&show_icons=true&count_private=true&hide_border=true&title_color=E0FFFF&icon_color=E0FFFF&text_color=00BFFF&bg_color=0d1117" alt="GabrielChiericiLuz github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielChiericiLuz&layout=compact&hide_border=true&langs_count=8&count_private=true&title_color=E0FFFF&text_color=00BFFF&bg_color=0d1117" />
 
 
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GabrielChiericiLuz&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GabrielChiericiLuz&bg_color=000000&color=00BFFF&line=E0FFFF&point=E0FFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
 ### Main skills:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
