@@ -31,7 +31,7 @@
 ![cpanel](https://img.shields.io/badge/-cpanel-0D1117?style=for-the-badge&logo=cpanel&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 ### Studying in this moment:
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![React.js](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 ![Node.JS](https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white)
 ![tailwindcss](https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
 ![JavaScript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)
